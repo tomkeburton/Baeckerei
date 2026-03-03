@@ -1,0 +1,57 @@
+Jahr,Feiertag,Datum,Start,Ende,Anzahl_Tage,Geltungsbereich
+2013,Neujahrstag,2013-01-01,2013-01-01,2013-01-01,1,Bundesweit
+2013,Karfreitag,2013-03-29,2013-03-29,2013-03-29,1,Bundesweit
+2013,Ostermontag,2013-04-01,2013-04-01,2013-04-01,1,Bundesweit
+2013,Tag der Arbeit / 1. Mai,2013-05-01,2013-05-01,2013-05-01,1,Bundesweit
+2013,Christi Himmelfahrt (Vatertag),2013-05-09,2013-05-09,2013-05-09,1,Bundesweit
+2013,Pfingstmontag,2013-05-20,2013-05-20,2013-05-20,1,Bundesweit
+2013,Tag der Deutschen Einheit,2013-10-03,2013-10-03,2013-10-03,1,Bundesweit
+2013,1. Weihnachtstag,2013-12-25,2013-12-25,2013-12-25,1,Bundesweit
+2013,2. Weihnachtstag,2013-12-26,2013-12-26,2013-12-26,1,Bundesweit
+2014,Neujahrstag,2014-01-01,2014-01-01,2014-01-01,1,Bundesweit
+2014,Karfreitag,2014-04-18,2014-04-18,2014-04-18,1,Bundesweit
+2014,Ostermontag,2014-04-21,2014-04-21,2014-04-21,1,Bundesweit
+2014,Tag der Arbeit / 1. Mai,2014-05-01,2014-05-01,2014-05-01,1,Bundesweit
+2014,Christi Himmelfahrt (Vatertag),2014-05-29,2014-05-29,2014-05-29,1,Bundesweit
+2014,Pfingstmontag,2014-06-09,2014-06-09,2014-06-09,1,Bundesweit
+2014,Tag der Deutschen Einheit,2014-10-03,2014-10-03,2014-10-03,1,Bundesweit
+2014,1. Weihnachtstag,2014-12-25,2014-12-25,2014-12-25,1,Bundesweit
+2014,2. Weihnachtstag,2014-12-26,2014-12-26,2014-12-26,1,Bundesweit
+2015,Neujahrstag,2015-01-01,2015-01-01,2015-01-01,1,Bundesweit
+2015,Karfreitag,2015-04-03,2015-04-03,2015-04-03,1,Bundesweit
+2015,Ostermontag,2015-04-06,2015-04-06,2015-04-06,1,Bundesweit
+2015,Tag der Arbeit / 1. Mai,2015-05-01,2015-05-01,2015-05-01,1,Bundesweit
+2015,Christi Himmelfahrt (Vatertag),2015-05-14,2015-05-14,2015-05-14,1,Bundesweit
+2015,Pfingstmontag,2015-05-25,2015-05-25,2015-05-25,1,Bundesweit
+2015,Tag der Deutschen Einheit,2015-10-03,2015-10-03,2015-10-03,1,Bundesweit
+2015,1. Weihnachtstag,2015-12-25,2015-12-25,2015-12-25,1,Bundesweit
+2015,2. Weihnachtstag,2015-12-26,2015-12-26,2015-12-26,1,Bundesweit
+2016,Neujahrstag,2016-01-01,2016-01-01,2016-01-01,1,Bundesweit
+2016,Karfreitag,2016-03-25,2016-03-25,2016-03-25,1,Bundesweit
+2016,Ostermontag,2016-03-28,2016-03-28,2016-03-28,1,Bundesweit
+2016,Tag der Arbeit / 1. Mai,2016-05-01,2016-05-01,2016-05-01,1,Bundesweit
+2016,Christi Himmelfahrt (Vatertag),2016-05-05,2016-05-05,2016-05-05,1,Bundesweit
+2016,Pfingstmontag,2016-05-16,2016-05-16,2016-05-16,1,Bundesweit
+2016,Tag der Deutschen Einheit,2016-10-03,2016-10-03,2016-10-03,1,Bundesweit
+2016,1. Weihnachtstag,2016-12-25,2016-12-25,2016-12-25,1,Bundesweit
+2016,2. Weihnachtstag,2016-12-26,2016-12-26,2016-12-26,1,Bundesweit
+2017,Neujahrstag,2017-01-01,2017-01-01,2017-01-01,1,Bundesweit
+2017,Karfreitag,2017-04-14,2017-04-14,2017-04-14,1,Bundesweit
+2017,Ostermontag,2017-04-17,2017-04-17,2017-04-17,1,Bundesweit
+2017,Tag der Arbeit / 1. Mai,2017-05-01,2017-05-01,2017-05-01,1,Bundesweit
+2017,Christi Himmelfahrt,2017-05-25,2017-05-25,2017-05-25,1,Bundesweit
+2017,Pfingstmontag,2017-06-05,2017-06-05,2017-06-05,1,Bundesweit
+2017,Tag der Deutschen Einheit,2017-10-03,2017-10-03,2017-10-03,1,Bundesweit
+2017,Reformationstag,2017-10-31,2017-10-31,2017-10-31,1,"Bundesweit (einmalig, 500. Jahrestag)*"
+2017,1. Weihnachtstag,2017-12-25,2017-12-25,2017-12-25,1,Bundesweit
+2017,2. Weihnachtstag,2017-12-26,2017-12-26,2017-12-26,1,Bundesweit
+2018,Neujahrstag,2018-01-01,2018-01-01,2018-01-01,1,Bundesweit
+2018,Karfreitag,2018-03-30,2018-03-30,2018-03-30,1,Bundesweit
+2018,Ostermontag,2018-04-02,2018-04-02,2018-04-02,1,Bundesweit
+2018,Tag der Arbeit / 1. Mai,2018-05-01,2018-05-01,2018-05-01,1,Bundesweit
+2018,Christi Himmelfahrt,2018-05-10,2018-05-10,2018-05-10,1,Bundesweit
+2018,Pfingstmontag,2018-05-21,2018-05-21,2018-05-21,1,Bundesweit
+2018,Tag der Deutschen Einheit,2018-10-03,2018-10-03,2018-10-03,1,Bundesweit
+2018,Reformationstag,2018-10-31,2018-10-31,2018-10-31,1,Brandenburg; Bremen; Hamburg; Meckl.-Vorp.; Niedersachsen; Sachsen; Sachsen-Anhalt; Schleswig-Holstein; Thüringen
+2018,1. Weihnachtstag,2018-12-25,2018-12-25,2018-12-25,1,Bundesweit
+2018,2. Weihnachtstag,2018-12-26,2018-12-26,2018-12-26,1,Bundesweit
